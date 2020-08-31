@@ -1,5 +1,6 @@
 # Starter web project
 This is a simple website 
+Adding a line for rebasing example
 
 ## Introduction
 This is an introduction text
