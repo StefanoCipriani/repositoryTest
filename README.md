@@ -1,6 +1,6 @@
 # Starter web project
 This is a simple website 
-Adding a line for rebasing example
+Adding a line for rebasing example, then more changes from myfeature branch too
 
 ## Introduction
 This is an introduction text
