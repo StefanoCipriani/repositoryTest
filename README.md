@@ -11,3 +11,6 @@ This is the pourpose text edit
 This is the deployment text
 
 ## How to contribute
+
+### Copyright
+2020 ACME
