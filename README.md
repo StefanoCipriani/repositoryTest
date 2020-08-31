@@ -11,6 +11,7 @@ This is the pourpose text edit
 This is the deployment text
 
 ## How to contribute
+Create a pull request for review
 
 ### Copyright
 2020 ACME
