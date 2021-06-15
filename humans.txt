@@ -1,4 +1,3 @@
 # TEAMS
-	Line one
-	
-	Line two
+	Questo è il file del master
+	E ha tutte le sue righe
