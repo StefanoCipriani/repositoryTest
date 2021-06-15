@@ -1,5 +1,3 @@
 # TEAMS
-	Questo è il file del branch_1 
-	e ha tutte le sue altre righe
-	che creano conflitto con il master
+	Master file
 
