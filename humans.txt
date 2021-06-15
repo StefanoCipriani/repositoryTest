@@ -1,4 +1,4 @@
 # TEAMS
-	Line one
-	
-	Line two
+	Questo è il file del branh_1 
+	e ha tutte le sue altre righe
+	che creano conflitto con il master
